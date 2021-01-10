@@ -1,2 +1,2 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# AngryBirdsStage9
+Debugged the angry bird trajectory when shooting multiple times.
